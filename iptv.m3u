@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0 type="favorites" channelId="3285" group="All", NPO 1
+dtv://antenna:26/dvb/1
+#EXTINF:0 type="favorites" channelId="3286" group="All", NPO 2
+dtv://antenna:26/dvb/2
+#EXTINF:0 type="favorites" channelId="3287" group="All", NPO 3
+dtv://antenna:26/dvb/3
+#EXTINF:0 type="favorites" channelId="3607" group="All", TV Gelderland
+dtv://antenna:26/dvb/4
+#EXTINF:0 type="favorites" channelId="583" logo="https://i.imgur.com/2OJjojo.png" country="NL", BVN
+https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="favorites" channelId="3412" name="Canvas BE" logo="https://i.imgur.com/xVgqbbT.jpg" country="BE", Canvas
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3402" name="een BE" logo="https://i.imgur.com/hWfo6az.png" country="BE", Eén
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3422" name="Ketnet BE" logo="https://i.imgur.com/Du0YAJS.png" country="BE", Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/eDYaphB.png" country="BE", Ketnet Junior
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:0 type="favorites" channelId="1121", BBC4
+http://51.52.156.22:8888/http/003
+#EXTINF:0 type="favorites" channelId="1179", ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:0 type="favorites" channelId="352" group="All", DW
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="favorites" channelId="352" group="News" logo="http://mhdtvworld.com/wp-content/uploads/2018/12/deutsche_welle_tv_de.png" country="IN", DW
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0 type="favorites" channelId="143" group="All", RT
+https://rt-news-gd.secure2.footprint.net/1103.m3u8
+#EXTINF:0 type="favorites" channelId="363" name="Al Jazeera English ARB" group="News" logo="https://i.imgur.com/PITp6xA.jpg" country="QA", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0 type="favorites" channelId="1143" name="BBC News UK" group="News" logo="https://i.imgur.com/eNPIQ9f.png" country="UK", BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:0 type="favorites" channelId="1175" name="Sky News UK" group="News" logo="https://i.imgur.com/WvNd8yg.png" country="UK", Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="Sport" country="US", FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 type="favorites" channelId="119" name="Bloomberg TV USA-US" group="Business" logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" country="US", Bloomberg TV
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/pIuJqYk.png" country="US", Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
