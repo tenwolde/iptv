@@ -5,8 +5,8 @@ dtv://antenna:26/dvb/1
 dtv://antenna:26/dvb/2
 #EXTINF:0 type="favorites" channelId="3287" group="All", NPO 3
 dtv://antenna:26/dvb/3
-#EXTINF:0 type="favorites" channelId="3607" group="All", TV Gelderland
-dtv://antenna:26/dvb/4
+#EXTINF:0 type="favorites" channelId="3607" name="TV Gelderland NL" logo="https://i.imgur.com/2LZJo7k.png" country="NL", Omroep Gelderland
+http://web.omroepgelderland.nl/live/livetv.m3u8
 #EXTINF:0 type="favorites" channelId="583" logo="https://i.imgur.com/2OJjojo.png" country="NL", BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="favorites" channelId="3412" name="Canvas BE" logo="https://i.imgur.com/xVgqbbT.jpg" country="BE", Canvas
@@ -31,14 +31,58 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://51.52.156.22:8888/http/004
 #EXTINF:0 type="favorites" channelId="1175" name="Sky News UK" group="News" logo="https://i.imgur.com/WvNd8yg.png" country="UK", Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-#EXTINF:0 type="favorites" channelId="-1" group="Sport" country="US", FOX Sport HD 1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:0 type="favorites" channelId="119" name="Bloomberg TV USA-US" group="Business" logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" country="US", Bloomberg TV
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/pIuJqYk.png" country="US", Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="NETHERLANDS",RTV Noord Extra
-http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/LlVTlw7.jpg" country="UK", BBC 1 Scotland
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="1143" name="BBC News UK" group="News" logo="https://i.imgur.com/eNPIQ9f.png" country="UK", BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:0 type="favorites" channelId="118" name="BBC World News UK" group="News" logo="https://i.imgur.com/Nx0BRdV.png" country="UK", BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:0 type="favorites" channelId="119" country="UK", Bloomberg TV
+https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
+#EXTINF:0 type="favorites" channelId="321" country="UK", BOOMERANG
+http://193.33.39.108:8107/30710
+#EXTINF:0 type="favorites" channelId="1230" name="Box Hits UK" group="Music" logo="https://i.imgur.com/iv85GCc.png" country="UK", Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:0 type="favorites" channelId="3544" logo="https://i.imgur.com/O8Mbaii.jpg" country="UK", Forces TV
+https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="1245" group="Shop" logo="https://i.imgur.com/9fJlCNW.png" country="UK", Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/BVJWUpc.png" country="UK", Hala London
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
+#EXTINF:0 type="favorites" channelId="1179" country="UK", ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:0 type="favorites" channelId="1183" country="UK", ITV2
+http://51.52.156.22:8888/http/005
+#EXTINF:0 type="favorites" channelId="1133" logo="https://i.imgur.com/AqVdlpz.png" country="UK", Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:0 type="favorites" channelId="1229" logo="https://i.imgur.com/HXfKkwj.png" country="UK", Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/SEeqryT.png" country="DE", MDF 1
+http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
+#EXTINF:0 type="favorites" channelId="1848" name="RTL Plus" logo="https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png" country="DE", RTL Plus
+http://188.35.9.5:10020/stolen/480c/hot.dll
+#EXTINF:0 type="favorites" channelId="1032" name="RTL Nitro" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png" country="DE", RTL Nitro
+http://188.35.9.5:10020/stolen/479d/hot.dll
+#EXTINF:0 type="favorites" channelId="102" name="WDR Fernsehen" logo="http://www.yilmaztv.com/logo/wdr.png" country="DE", WDR
+https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://i.imgur.com/smyvTHD.jpg" country="DE", World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:0 type="favorites" channelId="94" name="Das Erste" logo="https://i.imgur.com/7wABSuo.png" country="DE", ARD HD
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/wYbO6ch.jpg" country="NL", BNR Nieuwsradio
+https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Music" logo="https://i.imgur.com/yjuaHY1.jpg" country="NL", Operator Radio
+http://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Music" logo="https://i.imgur.com/P8cVMle.jpg" country="NL", Qmusic
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/wDB4Gd2.png" country="NL", Radio 10
+https://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/sd7BX9H.png" country="NL", Radio 538
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/OTyX1vp.png" country="NL", Radio Veronica
+https://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3611" logo="https://i.imgur.com/yZEsfsv.png" country="NL", RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/P8cVMle.jpg" group-title="NETHERLANDS",Qmusic (Webradio)
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wDB4Gd2.png" group-title="NETHERLANDS",Radio 10 (Webradio)
@@ -47,3 +91,9 @@ http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
 http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OTyX1vp.png" group-title="NETHERLANDS",Radio Veronica (Webradio)
 http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sport" country="US", FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 type="favorites" channelId="119" name="Bloomberg TV USA-US" group="Business" logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" country="US", Bloomberg TV
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/pIuJqYk.png" country="US", Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
